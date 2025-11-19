@@ -60,7 +60,7 @@ Dataset was imported and stored in a pandas DataFrame.
 
 ### 7. **Model Evaluation**
 Metrics used:
-- **R² Score** ≈ 0.60  
+- **R² Score** 
 - **MAE**
 - **RMSE**
 
