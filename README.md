@@ -89,10 +89,10 @@ The linear regression model performed well and supported the hypothesis.
 ## 👩‍💻 
 Prepared by: Nada Altalea 
 
-Course: Statistical Methods for Data Analysis
-Instructor: Ayman Qahmish
-University: King Khalid University
-Date: 19. Nov.2025
+- Course: Statistical Methods for Data Analysis
+- Instructor: Ayman Qahmish
+- University: King Khalid University
+- Date: 19. Nov.2025
 
 
 ---
